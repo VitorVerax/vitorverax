@@ -5,10 +5,10 @@
 
 <div>
 <a href="https://github.com/VitorVerax/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VitorVerax&theme=dracula" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=VitorVerax&theme=dracula" />
 </a>
 <a href="https://github.com/VitorVerax/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorVerax&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorVerax&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 </div>
 
