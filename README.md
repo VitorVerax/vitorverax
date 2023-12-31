@@ -1,18 +1,28 @@
-# **"HELLO WORD"** 👋
+# "HELLO WORLD" 👋
+
+```html
+  <h1>"HELLO WORLD" 👋</h1>
+```
 ---
 ![CyberCity](https://github.com/VitorVerax/vitorverax/assets/151958186/3ca4e46d-5f5d-48b8-973f-c797e75d499b)
 
 ---
 ## ESTUDOS
 
+```html
+   <h2>ESTUDOS</h2>
+```
+
 <div style=" height=50 width=50">
   
   ![49Tu](https://github.com/VitorVerax/vitorverax/assets/151958186/da51e5c7-e390-4e64-834b-fe640021532a)
   
 </div>
-  
-- 🔭 **Atualmente cursando Analise e Desenvolvimento;**
-- 🌱 **Estudando JavaScript;**
+
+  ```html
+<p>- 🔭 Atualmente cursando Analise e Desenvolvimento;</p>
+<p>- 🌱 Estudando JavaScript;</p>
+```
 
 <div>
 <a href="https://github.com/VitorVerax/github-readme-stats">
