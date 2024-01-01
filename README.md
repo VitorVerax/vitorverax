@@ -12,12 +12,16 @@
 ```html
    <h2>ESTUDOS</h2>
 ```
+---
 
-<div style=" height=50 width=50">
+<div align="center">
   
-  ![49Tu](https://github.com/VitorVerax/vitorverax/assets/151958186/da51e5c7-e390-4e64-834b-fe640021532a)
+  ![JAKE](https://github.com/VitorVerax/vitorverax/assets/151958186/da51e5c7-e390-4e64-834b-fe640021532a)
   
 </div>
+
+---
+
 
   ```html
 <p>- 🔭 Atualmente cursando Analise e Desenvolvimento;</p>
